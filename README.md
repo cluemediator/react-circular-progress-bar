@@ -13,6 +13,10 @@ Follow the below steps to run the project.
 2. Run `npm i` command to install dependencies
 3. Execute `npm start` command to run the project
 
+
+## Output 
+[![React Circular Progress Bar](https://www.cluemediator.com/wp-content/uploads/2021/12/output-how-to-implement-a-circular-progress-bar-in-react-clue-mediator.gif)](https://www.cluemediator.com/how-to-implement-a-circular-progress-bar-in-react)
+
 ## Connect with us
 
 Website: [Clue Mediator](https://www.cluemediator.com)  
